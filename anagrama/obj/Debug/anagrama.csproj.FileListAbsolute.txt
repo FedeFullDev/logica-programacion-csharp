@@ -1,0 +1,7 @@
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\anagrama\bin\Debug\anagrama.exe.config
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\anagrama\bin\Debug\anagrama.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\anagrama\bin\Debug\anagrama.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\anagrama\obj\Debug\anagrama.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\anagrama\obj\Debug\anagrama.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\anagrama\obj\Debug\anagrama.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\anagrama\obj\Debug\anagrama.pdb

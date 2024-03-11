@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6875B352-5B03-4A4E-B1A2-B2BFD7CD60E5}|anagrama\\anagrama.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\anagrama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875B352-5B03-4A4E-B1A2-B2BFD7CD60E5}|anagrama\\anagrama.csproj|solutionrelative:anagrama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97D19DC6-738E-45C1-85DC-7F3215D4C96D}|fizz_buzz\\fizz_buzz.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\fizz_buzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97D19DC6-738E-45C1-85DC-7F3215D4C96D}|fizz_buzz\\fizz_buzz.csproj|solutionrelative:fizz_buzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\anagrama\\Program.cs",
+              "RelativeDocumentMoniker": "anagrama\\Program.cs",
+              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\anagrama\\Program.cs",
+              "RelativeToolTip": "anagrama\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswB4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:53:27.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\fizz_buzz\\Program.cs",
               "RelativeDocumentMoniker": "fizz_buzz\\Program.cs",

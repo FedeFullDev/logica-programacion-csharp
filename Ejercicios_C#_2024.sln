@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fizz_buzz", "fizz_buzz\fizz_buzz.csproj", "{97D19DC6-738E-45C1-85DC-7F3215D4C96D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagrama", "anagrama\anagrama.csproj", "{6875B352-5B03-4A4E-B1A2-B2BFD7CD60E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{97D19DC6-738E-45C1-85DC-7F3215D4C96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97D19DC6-738E-45C1-85DC-7F3215D4C96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97D19DC6-738E-45C1-85DC-7F3215D4C96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6875B352-5B03-4A4E-B1A2-B2BFD7CD60E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6875B352-5B03-4A4E-B1A2-B2BFD7CD60E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6875B352-5B03-4A4E-B1A2-B2BFD7CD60E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6875B352-5B03-4A4E-B1A2-B2BFD7CD60E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
