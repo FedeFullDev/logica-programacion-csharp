@@ -38,7 +38,7 @@ namespace num_primo
                     Console.WriteLine($"{x} no es primo");
                 }
             }
-
+            
             Console.ReadKey();
         }
     }

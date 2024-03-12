@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{34C2AE02-C281-411C-B782-4E3D4EE108E2}|invertir_cadena\\invertir_cadena.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\invertir_cadena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C2AE02-C281-411C-B782-4E3D4EE108E2}|invertir_cadena\\invertir_cadena.csproj|solutionrelative:invertir_cadena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAC38F09-2414-4EBE-9B63-08710E2178E8}|num_primo\\num_primo.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\num_primo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAC38F09-2414-4EBE-9B63-08710E2178E8}|num_primo\\num_primo.csproj|solutionrelative:num_primo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +28,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\invertir_cadena\\Program.cs",
+              "RelativeDocumentMoniker": "invertir_cadena\\Program.cs",
+              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\invertir_cadena\\Program.cs",
+              "RelativeToolTip": "invertir_cadena\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T03:25:25.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\num_primo\\Program.cs",
               "RelativeDocumentMoniker": "num_primo\\Program.cs",
               "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\num_primo\\Program.cs",
               "RelativeToolTip": "num_primo\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAmwCUAAAA3AAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwCgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T00:54:39.225Z",
               "EditorCaption": ""
