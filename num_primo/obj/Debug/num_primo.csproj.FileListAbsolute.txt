@@ -1,0 +1,7 @@
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\num_primo\bin\Debug\num_primo.exe.config
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\num_primo\bin\Debug\num_primo.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\num_primo\bin\Debug\num_primo.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\num_primo\obj\Debug\num_primo.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\num_primo\obj\Debug\num_primo.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\num_primo\obj\Debug\num_primo.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\num_primo\obj\Debug\num_primo.pdb
