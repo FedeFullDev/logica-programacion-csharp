@@ -1,0 +1,7 @@
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\expresiones_equilibradas\bin\Debug\expresiones_equilibradas.exe.config
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\expresiones_equilibradas\bin\Debug\expresiones_equilibradas.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\expresiones_equilibradas\bin\Debug\expresiones_equilibradas.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\expresiones_equilibradas\obj\Debug\expresiones_equilibradas.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\expresiones_equilibradas\obj\Debug\expresiones_equilibradas.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\expresiones_equilibradas\obj\Debug\expresiones_equilibradas.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\expresiones_equilibradas\obj\Debug\expresiones_equilibradas.pdb

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invertir_cadena", "invertir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a_mayuscula", "a_mayuscula\a_mayuscula.csproj", "{86921409-4F88-470E-ABDB-2E1CC0574DA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "expresiones_equilibradas", "expresiones_equilibradas\expresiones_equilibradas.csproj", "{C578BEF9-F168-436E-86B7-1EF83AD170F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{86921409-4F88-470E-ABDB-2E1CC0574DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86921409-4F88-470E-ABDB-2E1CC0574DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86921409-4F88-470E-ABDB-2E1CC0574DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C578BEF9-F168-436E-86B7-1EF83AD170F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C578BEF9-F168-436E-86B7-1EF83AD170F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C578BEF9-F168-436E-86B7-1EF83AD170F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C578BEF9-F168-436E-86B7-1EF83AD170F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
