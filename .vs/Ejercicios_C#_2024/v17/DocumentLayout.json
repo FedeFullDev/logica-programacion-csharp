@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C578BEF9-F168-436E-86B7-1EF83AD170F3}|expresiones_equilibradas\\expresiones_equilibradas.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\expresiones_equilibradas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C578BEF9-F168-436E-86B7-1EF83AD170F3}|expresiones_equilibradas\\expresiones_equilibradas.csproj|solutionrelative:expresiones_equilibradas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48A84BB-E837-4651-9946-3C25DFBDBC90}|factorial_recursivo\\factorial_recursivo.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\factorial_recursivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48A84BB-E837-4651-9946-3C25DFBDBC90}|factorial_recursivo\\factorial_recursivo.csproj|solutionrelative:factorial_recursivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\expresiones_equilibradas\\Program.cs",
-              "RelativeDocumentMoniker": "expresiones_equilibradas\\Program.cs",
-              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\expresiones_equilibradas\\Program.cs",
-              "RelativeToolTip": "expresiones_equilibradas\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAuAAAA",
+              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\factorial_recursivo\\Program.cs",
+              "RelativeDocumentMoniker": "factorial_recursivo\\Program.cs",
+              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\factorial_recursivo\\Program.cs",
+              "RelativeToolTip": "factorial_recursivo\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T23:38:59.077Z",
+              "WhenOpened": "2024-03-13T17:49:57.441Z",
               "EditorCaption": ""
             }
           ]
