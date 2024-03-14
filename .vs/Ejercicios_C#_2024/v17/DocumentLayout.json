@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0E1B3FF-B864-4379-B121-DCF2F9CB9A81}|numero_narcisista\\numero_narcisista.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\numero_narcisista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0E1B3FF-B864-4379-B121-DCF2F9CB9A81}|numero_narcisista\\numero_narcisista.csproj|solutionrelative:numero_narcisista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48A84BB-E837-4651-9946-3C25DFBDBC90}|factorial_recursivo\\factorial_recursivo.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\factorial_recursivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48A84BB-E837-4651-9946-3C25DFBDBC90}|factorial_recursivo\\factorial_recursivo.csproj|solutionrelative:factorial_recursivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0567A8F-AA7A-4F4F-B0A5-355A9F67E297}|palabra_palindroma\\palabra_palindroma.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\palabra_palindroma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0567A8F-AA7A-4F4F-B0A5-355A9F67E297}|palabra_palindroma\\palabra_palindroma.csproj|solutionrelative:palabra_palindroma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\numero_narcisista\\Program.cs",
-              "RelativeDocumentMoniker": "numero_narcisista\\Program.cs",
-              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\numero_narcisista\\Program.cs",
-              "RelativeToolTip": "numero_narcisista\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAiwDcAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\palabra_palindroma\\Program.cs",
+              "RelativeDocumentMoniker": "palabra_palindroma\\Program.cs",
+              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\palabra_palindroma\\Program.cs",
+              "RelativeToolTip": "palabra_palindroma\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACkAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T00:01:57.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\factorial_recursivo\\Program.cs",
-              "RelativeDocumentMoniker": "factorial_recursivo\\Program.cs",
-              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\factorial_recursivo\\Program.cs",
-              "RelativeToolTip": "factorial_recursivo\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAtwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T17:49:57.441Z",
+              "WhenOpened": "2024-03-14T02:56:18.622Z",
               "EditorCaption": ""
             }
           ]

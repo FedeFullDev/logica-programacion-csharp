@@ -1,0 +1,7 @@
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\palabra_palindroma\bin\Debug\palabra_palindroma.exe.config
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\palabra_palindroma\bin\Debug\palabra_palindroma.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\palabra_palindroma\bin\Debug\palabra_palindroma.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\palabra_palindroma\obj\Debug\palabra_palindroma.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\palabra_palindroma\obj\Debug\palabra_palindroma.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\palabra_palindroma\obj\Debug\palabra_palindroma.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\palabra_palindroma\obj\Debug\palabra_palindroma.pdb
