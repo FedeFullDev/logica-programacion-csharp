@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,7 +22,7 @@ namespace palabra_palindroma
             Console.WriteLine("Ingrese un texto");
             string texto = Console.ReadLine();
 
-            if (polindromo(texto))
+            if (Polindromo(texto))
             {
                 Console.WriteLine($"El texto  \" {texto} \" es un políndromo");
             }
@@ -36,7 +36,7 @@ namespace palabra_palindroma
         }
 
 
-        static bool polindromo(string texto)
+        static bool Polindromo(string texto)
         {
 
             texto = texto.Trim().Replace(" ", "");

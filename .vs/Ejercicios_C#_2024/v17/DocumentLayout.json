@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0567A8F-AA7A-4F4F-B0A5-355A9F67E297}|palabra_palindroma\\palabra_palindroma.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\palabra_palindroma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0567A8F-AA7A-4F4F-B0A5-355A9F67E297}|palabra_palindroma\\palabra_palindroma.csproj|solutionrelative:palabra_palindroma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0C818DF-E4FA-4D23-A755-2F6B10825D84}|conjuntos\\conjuntos.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\conjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C818DF-E4FA-4D23-A755-2F6B10825D84}|conjuntos\\conjuntos.csproj|solutionrelative:conjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\palabra_palindroma\\Program.cs",
-              "RelativeDocumentMoniker": "palabra_palindroma\\Program.cs",
-              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\palabra_palindroma\\Program.cs",
-              "RelativeToolTip": "palabra_palindroma\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAACkAAAAyAAAA",
+              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\conjuntos\\Program.cs",
+              "RelativeDocumentMoniker": "conjuntos\\Program.cs",
+              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\conjuntos\\Program.cs",
+              "RelativeToolTip": "conjuntos\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T02:56:18.622Z",
+              "WhenOpened": "2024-03-15T19:01:13.992Z",
               "EditorCaption": ""
             }
           ]

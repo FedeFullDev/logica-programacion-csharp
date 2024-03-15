@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numero_narcisista", "numero
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palabra_palindroma", "palabra_palindroma\palabra_palindroma.csproj", "{B0567A8F-AA7A-4F4F-B0A5-355A9F67E297}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conjuntos", "conjuntos\conjuntos.csproj", "{F0C818DF-E4FA-4D23-A755-2F6B10825D84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{B0567A8F-AA7A-4F4F-B0A5-355A9F67E297}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0567A8F-AA7A-4F4F-B0A5-355A9F67E297}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0567A8F-AA7A-4F4F-B0A5-355A9F67E297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0C818DF-E4FA-4D23-A755-2F6B10825D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0C818DF-E4FA-4D23-A755-2F6B10825D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0C818DF-E4FA-4D23-A755-2F6B10825D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0C818DF-E4FA-4D23-A755-2F6B10825D84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
