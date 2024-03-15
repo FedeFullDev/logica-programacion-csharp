@@ -88,33 +88,32 @@ namespace conjuntos
             int eleccion;
 
             Console.Write("Ingrese 1, si desea obtener los elementos en común entre las listas, o 2 si desea la cantidad total de nombres y apellidos. \n");
-            bool validar = int.TryParse(Console.ReadLine(), out eleccion);
-
-
-
+            bool validarConversion = int.TryParse(Console.ReadLine(), out eleccion);
 
             List<string> ResultadoLista = new List<string>();
 
+
+            bool validarAccion;
+
             switch (eleccion)
             {
+                 
                 case 1:
                     /*
                     Cuando el usuario ingrese 1, a lo que se refiere la consigna de devolver una lista con elementos en común, en este
                     caso, será el nombre y apellido asociado de cada lista, según lo que pide el usuario.
                     */
-                    ResultadoLista.Add(AsemejarIndices(ListaNombres, ListaApellidos, validar, nombre, nombre));
-                    Console.WriteLine($"El usuario completo es: {ResultadoLista}");
+                    ResultadoLista.AddRange(AsemejarIndices(ListaNombres, ListaApellidos, validarAccion = true, nombre, apellido));
+                    Console.WriteLine($"El usuario completo es: {ResultadoLista[0]}");
                     break;
 
                     /*
                     Cuando el usuario ingrese 2, recibirá una lista con la cantidad total de nombres y apellidos cargados.
                     */
                 case 2:
-                    ResultadoLista = AsemejarIndices(ListaNombres, ListaApellidos, validar);
+                    ResultadoLista.AddRange(AsemejarIndices(ListaNombres, ListaApellidos, validarAccion = false));
                     Console.Write($"La cantidad total de nombres es {ResultadoLista[0]} \n");
                     Console.Write($"y la cantidad total de apellidos es {ResultadoLista[1]} \n");
-
-
                     break;
             }
 
