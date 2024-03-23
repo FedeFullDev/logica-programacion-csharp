@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conjuntos", "conjuntos\conj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vectores_ortogonales", "vectores_ortogonales\vectores_ortogonales.csproj", "{0B2A56D6-6409-457B-A449-21E4BE6EBE18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "segundo_numero_mayor", "segundo_numero_mayor\segundo_numero_mayor.csproj", "{20F3A9E1-2B94-4B88-B0E4-FD4299064A12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0B2A56D6-6409-457B-A449-21E4BE6EBE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B2A56D6-6409-457B-A449-21E4BE6EBE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B2A56D6-6409-457B-A449-21E4BE6EBE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F3A9E1-2B94-4B88-B0E4-FD4299064A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F3A9E1-2B94-4B88-B0E4-FD4299064A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F3A9E1-2B94-4B88-B0E4-FD4299064A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F3A9E1-2B94-4B88-B0E4-FD4299064A12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
