@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0C818DF-E4FA-4D23-A755-2F6B10825D84}|conjuntos\\conjuntos.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\conjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0C818DF-E4FA-4D23-A755-2F6B10825D84}|conjuntos\\conjuntos.csproj|solutionrelative:conjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B2A56D6-6409-457B-A449-21E4BE6EBE18}|vectores_ortogonales\\vectores_ortogonales.csproj|c:\\users\\feder\\onedrive\\documentos\\programaci\u00F3n\\ejercicios c# 2024\\ejercicios_c#_2024\\vectores_ortogonales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2A56D6-6409-457B-A449-21E4BE6EBE18}|vectores_ortogonales\\vectores_ortogonales.csproj|solutionrelative:vectores_ortogonales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\conjuntos\\Program.cs",
-              "RelativeDocumentMoniker": "conjuntos\\Program.cs",
-              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\conjuntos\\Program.cs",
-              "RelativeToolTip": "conjuntos\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAANwAAAARAAAA",
+              "DocumentMoniker": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\vectores_ortogonales\\Program.cs",
+              "RelativeDocumentMoniker": "vectores_ortogonales\\Program.cs",
+              "ToolTip": "C:\\Users\\feder\\OneDrive\\Documentos\\Programaci\u00F3n\\Ejercicios C# 2024\\Ejercicios_C#_2024\\vectores_ortogonales\\Program.cs",
+              "RelativeToolTip": "vectores_ortogonales\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T19:01:13.992Z",
+              "WhenOpened": "2024-03-23T16:20:45.85Z",
               "EditorCaption": ""
             }
           ]

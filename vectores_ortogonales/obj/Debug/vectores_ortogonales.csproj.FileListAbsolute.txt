@@ -1,0 +1,7 @@
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\vectores_ortogonales\bin\Debug\vectores_ortogonales.exe.config
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\vectores_ortogonales\bin\Debug\vectores_ortogonales.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\vectores_ortogonales\bin\Debug\vectores_ortogonales.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\vectores_ortogonales\obj\Debug\vectores_ortogonales.csproj.AssemblyReference.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\vectores_ortogonales\obj\Debug\vectores_ortogonales.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\vectores_ortogonales\obj\Debug\vectores_ortogonales.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\vectores_ortogonales\obj\Debug\vectores_ortogonales.pdb

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palabra_palindroma", "palab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conjuntos", "conjuntos\conjuntos.csproj", "{F0C818DF-E4FA-4D23-A755-2F6B10825D84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vectores_ortogonales", "vectores_ortogonales\vectores_ortogonales.csproj", "{0B2A56D6-6409-457B-A449-21E4BE6EBE18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F0C818DF-E4FA-4D23-A755-2F6B10825D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0C818DF-E4FA-4D23-A755-2F6B10825D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0C818DF-E4FA-4D23-A755-2F6B10825D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B2A56D6-6409-457B-A449-21E4BE6EBE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2A56D6-6409-457B-A449-21E4BE6EBE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2A56D6-6409-457B-A449-21E4BE6EBE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2A56D6-6409-457B-A449-21E4BE6EBE18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
