@@ -39,8 +39,8 @@ namespace invertir_cadena
             Array.Reverse(cadena);
             String cadenaInvertida = new string(cadena);
             return cadenaInvertida;
-
-
+           
+          
         }
 
         static char[] InvertirCadenaManualmente(string palabra)
@@ -60,7 +60,7 @@ namespace invertir_cadena
                 cadena[i] = cadena[contador];
                 cadena[contador] = x;
 
-                contador--;
+                 contador--;
             }
             return cadena;
         }

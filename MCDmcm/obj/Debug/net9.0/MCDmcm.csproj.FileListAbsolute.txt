@@ -1,0 +1,15 @@
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\bin\Debug\net9.0\MCDmcm.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\bin\Debug\net9.0\MCDmcm.deps.json
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\bin\Debug\net9.0\MCDmcm.runtimeconfig.json
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\bin\Debug\net9.0\MCDmcm.dll
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\bin\Debug\net9.0\MCDmcm.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\MCDmcm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\MCDmcm.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\MCDmcm.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\MCDmcm.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\MCDmcm.sourcelink.json
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\MCDmcm.dll
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\refint\MCDmcm.dll
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\MCDmcm.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\MCDmcm.genruntimeconfig.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\MCDmcm\obj\Debug\net9.0\ref\MCDmcm.dll
