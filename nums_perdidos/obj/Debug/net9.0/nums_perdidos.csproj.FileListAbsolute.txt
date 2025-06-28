@@ -1,0 +1,15 @@
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\nums_perdidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\nums_perdidos.AssemblyInfoInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\nums_perdidos.AssemblyInfo.cs
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\nums_perdidos.csproj.CoreCompileInputs.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\nums_perdidos.sourcelink.json
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\bin\Debug\net9.0\nums_perdidos.exe
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\bin\Debug\net9.0\nums_perdidos.deps.json
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\bin\Debug\net9.0\nums_perdidos.runtimeconfig.json
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\bin\Debug\net9.0\nums_perdidos.dll
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\bin\Debug\net9.0\nums_perdidos.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\nums_perdidos.dll
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\refint\nums_perdidos.dll
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\nums_perdidos.pdb
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\nums_perdidos.genruntimeconfig.cache
+C:\Users\feder\OneDrive\Documentos\Programación\Ejercicios C# 2024\Ejercicios_C#_2024\nums_perdidos\obj\Debug\net9.0\ref\nums_perdidos.dll
